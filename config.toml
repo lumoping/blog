@@ -1,0 +1,4 @@
+baseURL = 'https://lumoping.com/'
+languageCode = 'zh'
+title = "lumoping's blog"
+theme = "ananke"
